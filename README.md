@@ -1,16 +1,18 @@
-## Hi there 👋
+# 初めまして
+icysamonです、よろしくお願いしますにゃ！
 
-<!--
-**icysamon/icysamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️技能
+- 🛰️ 電子工作
+- 🦕 ゲーム開発
+- 🎶 作曲
+- 🎨 ドット絵描き
 
-Here are some ideas to get you started:
+## 💻開発経験
+- ✅ C / C# / C++ / Python / GodotScript / Verilog / Kotlin / PHP / JavaScript
+- ✅ Unity / Godot Engine / KiCad / Android Studio / WordPress
+- ✅ Cubase / FL Studio / Synthesizer V Studio / Reaper
+- ✅ Blender / Krita / Aseprite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌿SNS
+- 🍰 ツイッター： https://twitter.com/icysamon
+- 📖 ブログ： https://blog.icysamon.com
