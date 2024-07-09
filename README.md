@@ -9,6 +9,7 @@ icysamonです、よろしくお願いしますにゃ！
 
 ## 💻 開発経験
 - ✅ C / C# / C++ / Python / GodotScript / Verilog / Kotlin / PHP / JavaScript
+- ✅ Raspberry Pi Pico / Raspberry Pi / STM32 / C51 / ROS
 - ✅ Unity / Godot Engine / KiCad / Android Studio / WordPress
 - ✅ Cubase / FL Studio / Synthesizer V Studio / Reaper
 - ✅ Blender / Krita / Aseprite
