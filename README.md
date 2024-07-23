@@ -16,4 +16,4 @@ icysamonです、よろしくお願いしますにゃ！
 
 ## 🌿 SNS
 - 🍰 ツイッター： https://twitter.com/icysamon
-- 📖 ブログ： https://blog.icysamon.com
+- 📖 ウェブサイト： https://icysamon.com
